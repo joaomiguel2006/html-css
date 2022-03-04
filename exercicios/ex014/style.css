@@ -1,0 +1,28 @@
+@charset "UTF-8";
+  body{ background-color: rgb(251, 252, 193); font-family: Arial, Helvetica, sans-serif; font-size: 20px;}
+  
+  h1{color: maroon; background-color: darkgoldenrod;}
+
+  h2{color: rgb(230, 24, 24);}
+
+  p{text-align: justify;}
+  /* Color Theme Swatches in Hex */
+.Ilustração-1-hex { color: #A61414; }
+.Ilustração-2-hex { color: #590E0E; }
+.Ilustração-3-hex { color: #BF3939; }
+.Ilustração-4-hex { color: #D99191; }
+.Ilustração-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.Ilustração-1-rgba { color: rgba(165, 19, 19, 1); }
+.Ilustração-2-rgba { color: rgba(89, 14, 14, 1); }
+.Ilustração-3-rgba { color: rgba(191, 57, 57, 1); }
+.Ilustração-4-rgba { color: rgba(216, 145, 145, 1); }
+.Ilustração-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Ilustração-1-hsla { color: hsla(0, 78, 36, 1); }
+.Ilustração-2-hsla { color: hsla(0, 72, 20, 1); }
+.Ilustração-3-hsla { color: hsla(0, 53, 48, 1); }
+.Ilustração-4-hsla { color: hsla(0, 48, 70, 1); }
+.Ilustração-5-hsla { color: hsla(0, 0, 5, 1); }
